@@ -1,0 +1,1 @@
+My simple and clean portfolio bot
